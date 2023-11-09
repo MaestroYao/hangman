@@ -1,7 +1,7 @@
 import random
 
 '''
-Task 1 
+Milestone 2 -- Task 1 
 Step 1. Create a List of 5 fruits
 Step 2. Assign it to a variable
 Step 3. Print the list
