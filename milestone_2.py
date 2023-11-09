@@ -20,6 +20,11 @@ Step 4: Print the word variable
 '''
 
 word = random.choice(word_list)
-
 print(word)
 
+'''
+Task 3
+Step 1: Using the input function, ask the user to enter a single letter.
+Step 2: Assign the input to a variable called guess.
+'''
+guess = input('Enter one single letter: ')
